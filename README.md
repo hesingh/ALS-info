@@ -45,7 +45,7 @@ rest of your life unless another form of
 drug is developed.  Others forms are
 infusion using the arm or oral medications.
 Other forms a less likely because the ALS drug
-molecule changes is structure if infused
+molecule changes its structure if infused
 via the arm and the drug bcecomes useless.
 
 
