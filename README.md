@@ -69,7 +69,7 @@ Ravdicava was FDA approved in 2017 and includes anti-oxidants.  Nothing more is 
 
 ## Exercise 
 
-### Strenthen Hip Flexors
+### Strengthen Hip Flexors
 
 Limb ALS weakens hip flexor muscles. If these muscles are weak, raising leg or getting up from chair/bed would be difficult.
 
