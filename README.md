@@ -12,7 +12,7 @@ mutation was discovered in 2011.  A test for this
 mutation was developed in 2012 by Athena Diagnostics in the U.S.
 and Phase I gene drug trials started in 2019.
 
-## Tested Positive for gene mutation
+## Tested Positive for Gene Mutation
 
 SOD1 has a gene silencing drug from https://apic-bio.com/, a
 company in MA with Dr. Robert Brown as one founder.  Dr. Brown
@@ -30,7 +30,7 @@ Dr. Brown is first with a mRNA drug for SOD1 gene mutation.
 mRNA is also being used for Covid-19 vaccine being developed
 by Moderna in MA.
 
-## Gene Drug(s) for C9orf72 mutation
+## Gene Drug(s) for C9orf72 Mutation
 
 Biongen has BIIB078 gene drug in Phase I trials
 Not until Phase 3 is completed, the efficacy and
