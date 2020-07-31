@@ -1,3 +1,5 @@
+I am not a doctor.  I work in computer science and battly limb ALS for few years.  I live in Boston suburbs. 
+
 # Diagnosed with ALS?
 
 ## Next Step
