@@ -12,7 +12,7 @@ mutation was discovered in 2011.  A test for this
 mutation was developed in 2012 by Athena Diagnostics in the U.S.
 and Phase I gene drug trials started in 2019.
 
-## Tested Positive for Gene Mutation
+## Tested Positive for Gene Mutation?
 
 SOD1 has a gene silencing drug from https://apic-bio.com/, a
 company in MA with Dr. Robert Brown as one founder.  Dr. Brown
@@ -49,3 +49,12 @@ molecule changes its structure if infused
 via the arm and the drug bcecomes useless.
 
 
+## Anaylze your Speech for Early Detection of ALS?
+
+There are two kinds of ALS, viz., Bulbar and Limb.
+
+Bulbar ALS affects muscle degradation for functions above the neck.  These functions are speech, swallowing and breathing.  Actually breathing uses lungs which are below the neck. I am not sure what are tests exist to detect bulbar early, but speech analysis seems like a good one.   
+
+However, if one has Limb ALS which usually starts with a foot drop in one leg, speech is not impacted immediately.  So, in such ALS, speech analysis is not necessary, but can speech should be monitored.  
+
+Bottom line is if EMG test detects fasciculations in multiple limbs, it is likely the person has motor neuron disease. So blood tests should be undertaken for C9orf72 first and then SOD1.  If both turn out to be negative, try FUS gene testing.  Your neurologist may know of other genes to test.  
