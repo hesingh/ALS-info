@@ -65,3 +65,18 @@ On seeing an ALS patient for the first time, a neurologist always recommends Ril
 
 Ravdicava was FDA approved in 2017 and includes anti-oxidants.  Nothing more is known about it.  Radicava starts with a 6-month cycle after which slow down of ALS has been seen in trials.  Radicava has a side effect - it may degrade the patient's walking gait.  If a patient doesn't have access to gene drugs or other personalized medicine (Tregs, stem cells), Radicava should be considered.  A hospital such as MGH in Boston, takes 12 weeks to setup Radicava infusions.  The infusions can also be administered at home - consider this option during Covid-19 pandemic.
 
+## Exercise 
+
+### Strenthen Hip Flexors
+
+Limb ALS weakens hip flexor muscles. If these muscles are weak, raising leg or getting up from chair/bed would be difficult.
+
+1. Hold on to a chair and do marching.  March both legs and repeat 10 times - this is one set. Repeat set two more times.  See https://myhealth.alberta.ca/Health/Pages/conditions.aspx?hwid=zm2304&lang=en-ca
+2. Toe Stand.  See https://www.youtube.com/watch?v=04zZLGcrN5Y
+   Do 10 times which is one set.  Repeat the set two more times.
+
+### Deep Breathing
+
+Yoga recommends 100 deep breaths in one day. 
+
+
