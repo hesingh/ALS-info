@@ -19,8 +19,9 @@ and Phase I gene drug trials started in 2019.
 SOD1 has a gene silencing drug from https://apic-bio.com/, a
 company in MA with Dr. Robert Brown as one founder.  Dr. Brown
 discovered the SOD1 gene around 1992 to cause ALS.  He has
-been working tirelessly on finding cures for ALS. Merit Cudkowicz
-has been a student of Dr. Brown's.  In 2006, gene silencing, invented
+been working tirelessly on finding cures for ALS. Merit Cudkowicz, Head
+of Neurology, Mass General Hospital (MGH), has been a student of 
+Dr. Brown's.  In 2006, gene silencing, invented
 at UMass Medical, got the Nobel prize in medicine.  In 2008, Dr. Brown
 left Harvard Medical and joined UMass Medical - familial ALS is caused by 
 gene mutation and gene silencing knowledge at UMass Medical would help. 
