@@ -20,9 +20,10 @@ discovered the SOD1 gene around 1992 to cause ALS.  He has
 been working tirelessly on finding cures for ALS. Merit Cudkowicz
 has been a student of Dr. Brown's.  In 2006, gene silencing, invented
 at UMass Medical, got the Nobel prize in medicine.  In 2008, Dr. Brown
-left Harvard Medical and joined UMass Medical - he knew, familial ALS,
-or even sporadic ALS, is caused by gene mutation and he would use gene
-silencing knowledge at UMass Medical. See Dr. Brown's research on ALS below.
+left Harvard Medical and joined UMass Medical - familial ALS,
+or even sporadic ALS, is caused by gene mutation and gene
+silencing knowledge at UMass Medical would help. See Dr. Brown's research 
+on ALS below.
 
 https://theangelfund.org/research-at-day-lab/
 
