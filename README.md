@@ -46,9 +46,10 @@ One has to take the drug for life.  This means,
 rest of your life unless another form of
 drug is developed.  Others forms are
 infusion using the arm or oral medications.
-Other forms a less likely because the ALS drug
-molecule changes its structure if infused
-via the arm and the drug bcecomes useless.
+Other forms are less likely because the ALS drug
+molecule changes its structure or dissipates in other
+cells, if infused.  Thus the spine does not get
+the drug at all or not in its original form to be effective.
 
 
 ## Anaylze your Speech for Early Detection of ALS?
