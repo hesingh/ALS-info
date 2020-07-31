@@ -58,3 +58,10 @@ Bulbar ALS affects muscle degradation for functions above the neck.  These funct
 However, if one has Limb ALS which usually starts with a foot drop in one leg, speech is not impacted immediately.  So, in such ALS, speech analysis is not necessary, but can speech should be monitored.  
 
 Bottom line is if EMG test detects fasciculations in multiple limbs, it is likely the person has motor neuron disease. So blood tests should be undertaken for C9orf72 first and then SOD1.  If both turn out to be negative, try FUS gene testing.  Your neurologist may know of other genes to test.  
+
+## Other Drugs (Riluzole and Radicava)
+
+On seeing an ALS patient for the first time, a neurologist always recommends Riluzole.  Riluzole was the first drug to treat ALS and get FDA approved in 1995. If Riluzole was so effective, why are ALS patients still dying in 3-5 years of ALS onset?  Credible public data shows Riluzole may increase life by a few months.
+
+Ravdicava was FDA approved in 2017 and includes anti-oxidants.  Nothing more is known about it.  Radicava starts with a 6-month cycle after which slow down of ALS has been seen in trials.  Radicava has a side effect - it may degrade the patient's walking gait.  If a patient doesn't have access to gene drugs or other personalized medicine (Tregs, stem cells), Radicava should be considered.  A hospital such as MGH in Boston, takes 12 weeks to setup Radicava infusions.  The infusions can also be administered at home - consider this option during Covid-19 pandemic.
+
