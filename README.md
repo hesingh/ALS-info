@@ -1,5 +1,9 @@
 I am not a doctor.  I work in computer science and battling limb ALS for few years.  I live in Boston suburbs. 
 
+# Video
+
+Most recent Webinar with Dr. Bedlack (Duke U.) is here: https://www.youtube.com/watch?v=Lhs4T5NhdUc
+
 # Diagnosed with ALS?
 
 ## Next Step
