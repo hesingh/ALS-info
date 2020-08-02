@@ -59,7 +59,7 @@ There are two kinds of ALS, viz., Bulbar and Limb.
 
 Bulbar ALS affects muscle degradation for functions above the neck.  These functions are speech, swallowing and breathing.  Actually breathing uses lungs which are below the neck. I am not sure what tests exist to detect bulbar early, but speech analysis seems like a good one.   
 
-However, if one has Limb ALS which usually starts with a foot drop in one leg, speech is not impacted immediately.  So, in such ALS, speech analysis is not necessary, but can speech should be monitored.  
+However, if one has Limb ALS which usually starts with a foot drop in one leg, speech is not impacted immediately.  So, in such ALS, speech analysis is not necessary, but speech should be monitored.  
 
 Bottom line is if EMG test detects fasciculations in multiple limbs, it is likely the person has motor neuron disease. So blood tests should be undertaken for C9orf72 first and then SOD1.  If both turn out to be negative, try FUS gene testing.  Your neurologist may know of other genes to test.  
 
