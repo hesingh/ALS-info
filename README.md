@@ -2,7 +2,11 @@ I am not a doctor.  I work in computer science and battling limb ALS for few yea
 
 # Video
 
-Most recent Webinar with Dr. Bedlack (Duke U.) is here: https://www.youtube.com/watch?v=Lhs4T5NhdUc
+Most recent Webinar with Dr. Robert (Bob) Brown
+
+https://www.youtube.com/watch?v=dUb46Q3xZro
+
+Another video is from Dr. Bedlack (Duke U.) is here: https://www.youtube.com/watch?v=Lhs4T5NhdUc
 
 # Diagnosed with ALS?
 
