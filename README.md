@@ -43,9 +43,9 @@ by Moderna in MA.
 
 ## Gene Drug(s) for C9orf72 Mutation
 
-Biogen has BIIB078 gene drug in Phase I trials
+Biogen has BIIB078 gene drug in Phase I trials.
 Not until Phase 3 is completed, the efficacy and
-drug dose is not confirmed.  Any gene silencing
+drug dose is confirmed.  Any gene silencing
 drug, one of which is BIIB078, is administered
 via a lumbar puncture.  In the Phase I trial
 10 lumbar punctures are scheduled for one year.
