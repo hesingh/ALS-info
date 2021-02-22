@@ -14,7 +14,7 @@ Another video is from Dr. Bedlack (Duke U.) is here: https://www.youtube.com/wat
 
 Likely, an EMG test and other limb or bulbar physical tests concluded one has ALS.
 But still, get your blood tested for gene mutation. Any one of many
-gene mutatations in one's body cause ALS.  The C9orf72 gene is the
+gene mutations in one's body cause ALS.  The C9orf72 gene is the
 most common gene causing ALS.  A blood test for it takes about
 3-4 weeks. Other genes causing ALS are SOD1 and FUS, there are
 many more.  Speed of ALS research is picking up. The C9orf72 gene
